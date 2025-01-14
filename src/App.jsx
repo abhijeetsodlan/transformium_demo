@@ -4,7 +4,7 @@ import LandingPage from "./LandingPage";
 import ContactPage from "./ContactPage";
 import Login from "./login";
 import Products from "./products";
-import Footer from "./Footer"; // Import Footer component
+import Footer from "./footer"; // Import Footer component
 import "./index.css";
 
 const App = () => {
@@ -113,7 +113,7 @@ const App = () => {
         </div>
 
         {/* Footer */}
-        <Footer />
+        {/* <Footer /> */}
       </div>
 
       {/* Styles for Animations */}
